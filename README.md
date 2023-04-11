@@ -21,8 +21,8 @@ Hi there 👋
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 you can contact me 
-        email: se.solomon.kasahun@gmail.com \n
-        linkedin: https://www.linkedin.com/in/solomon-kassahun-4b4988195/ \n
-        phone: +251986557047
+        - email: se.solomon.kasahun@gmail.com
+        - linkedin: https://www.linkedin.com/in/solomon-kassahun-4b4988195/
+        - phone: +251986557047
 
 - 😄 Pronouns: He
