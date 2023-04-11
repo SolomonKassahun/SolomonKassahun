@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there 👋
+- 🔭 I’m currently working as Flutter Mobile Application developer, Angular Developer
+<!-- - 🌱 I’m currently learning ... -->
+- 👯 I’m looking to collaborate on both team and Individual
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+- 📫 you can contact me 
+        email: se.solomon.kasahun@gmail.com
+        linkedin: https://www.linkedin.com/in/solomon-kassahun-4b4988195/
+        phone: +251986557047
+
+- 😄 Pronouns: He
